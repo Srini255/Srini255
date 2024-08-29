@@ -29,13 +29,13 @@ I'm a recent graduate in Information Technology with a strong passion for buildi
 
 ## Projects
 
-### [Stone Paper Scissors Game](https://github.com/Srini255/stone-paper-scissors-game)
+### [Stone Paper Scissors Game](https://github.com/Srini255/Stone-Paper-Scissor-Game)
 A simple implementation of the classic Stone Paper Scissors game. Built with JavaScript, HTML, and CSS.
 
 ### [Weather App](https://github.com/Srini255/weather-app)
 A web application that fetches real-time weather data using an API and displays it in a user-friendly interface.
 
-### [Calculator Web Application](https://github.com/Srini255/calculator-web-app)
+### [Calculator Web Application](https://github.com/Srini255/Weather_Webapp)
 A basic calculator web app with support for arithmetic operations, built with JavaScript, HTML, and CSS.
 
 ---
