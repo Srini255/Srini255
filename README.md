@@ -1,8 +1,14 @@
 # Hi there, I'm Srinivash! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-38a800271-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/srinivash-g-38a800271)
-[![GitHub](https://img.shields.io/badge/GitHub-Srini255-181717?style=flat-square&logo=github)](https://github.com/Srini255)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Srinitamil17-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/srinitamil17)
+<a href="https://www.linkedin.com/in/srinivash-g-38a800271" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-38a800271-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="https://github.com/Srini255" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Srini255-181717?style=flat-square&logo=github" alt="GitHub">
+</a>
+<a href="https://leetcode.com/u/srinitamil17" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Srinitamil17-orange?style=flat-square&logo=leetcode" alt="LeetCode">
+</a>
 
 ---
 
