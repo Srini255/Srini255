@@ -40,12 +40,6 @@ A basic calculator web app with support for arithmetic operations, built with Ja
 
 ---
 
-## GitHub Stats
-
-![Srinivash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srini255&show_icons=true&theme=radical)
-
----
-
 ## Get in Touch
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/srinivash-g-38a800271), check out my work on [GitHub](https://github.com/Srini255), or see my coding challenges on [LeetCode](https://leetcode.com/u/srinitamil17).
