@@ -38,6 +38,8 @@ A web application that fetches real-time weather data using an API and displays 
 ### [Calculator Web Application](https://github.com/Srini255/Calculator_WebApp)
 A basic calculator web app with support for arithmetic operations, built with JavaScript, HTML, and CSS.
 
+### [Memory Card Game](https://github.com/Srini255/MemoryCardGame)
+concentration-based card game where players match pairs of cards by remembering their positions.
 ---
 
 ## Get in Touch
