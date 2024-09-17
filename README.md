@@ -29,7 +29,7 @@ I'm a recent graduate in Information Technology with a strong passion for buildi
 
 ## Projects
 
-### [Stone Paper Scissors Game](https://github.com/Srini255/Stone-Paper-Scissor-Game)
+### [Snake Water Gun Game](https://github.com/Srini255/Stone-Paper-Scissor-Game)
 A simple implementation of the classic Stone Paper Scissors game. Built with JavaScript, HTML, and CSS.
 
 ### [Weather App](https://github.com/Srini255/Weather_Webapp)
